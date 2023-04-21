@@ -1,4 +1,4 @@
-# demo
+# 基于VUE的设备状态监测系统
 
 ## Project setup
 ```
